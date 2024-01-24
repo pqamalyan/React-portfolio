@@ -1,0 +1,33 @@
+.Home{
+    width: 100%;
+
+    height: 649px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    color:white;
+    font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+
+}
+#fb{
+    color:white ;
+}
+#in{
+    color: white ;
+}
+#tw{
+    color:white ;
+}
+#fb:hover{
+   color: blue;
+    transform: 0.5s;
+}
+#in:hover{
+color: pink;
+ }
+ #tw:hover{
+    color: blue;
+     transition: 2s;
+ }

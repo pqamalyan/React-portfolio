@@ -1,0 +1,13 @@
+body{
+  background: linear-gradient(to right,#5d3b22,#ebe5db);
+  height:unset ;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+
+}
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
